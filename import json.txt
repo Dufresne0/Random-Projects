@@ -1,0 +1,73 @@
+import json
+ x = '{ "hesapadı" : "Sherwood" , "Etiketi" : 2012 , "Tokeni":"12312312312312321"}'
+
+ yükleme = json.loads(x)
+
+ print(yükleme[hesapadı])
+
+
+ 
+//////////////////////////////////////////////////////////////
+
+ "Galactic Guardians":[
+   {"Name":"Mert", "Surname":""},
+   {"Name":"Tamer", "Surname":""},
+   {"Name":"Harun", "Surname":"}
+   ////////////////////////////////////////////////////////////
+ ]
+  "Kart Numaraları".[
+      {"kart":"123445433453", "sonkullanma":"10/45", "cvv":"233"}
+  ]   
+  numara = json.loads(Kart Numaraları)
+  print(Kart Numaraları[kart + cvv + sonkullanma])
+//////////////////////////////////////////////////////////
+
+
+
+kart = {
+     "kart" : "12312312321",
+     "sonkullanma" : "10/24",
+     "cvv" : "240"
+}
+for sherwoods in kart
+num = +1
+y = json.loads(sherwoods)
+print("Başarıyla ["num+1"] kart yazıldı.")
+print(sherwoods[sonkullanma])
+     
+///////////////////////////////////////////////   
+ 
+ kart = ["55123141243"] , sonkullanma = ["10/94"] , cvv = ["911"] 
+ print("----------------------------")
+ print("Aşağıda kart numaraları ayrılmıştır!")
+ print(kart[10])
+ print(cvv[0:3])
+ print(sonkullanma[0:4])
+ print("----------------------------")
+ kart_numarası = kart + sonkullanma + cvv
+ print(kart_numarası)
+
+ ////////////////////////////////////////////////////////////////////////
+
+
+ kartnumaraları = ["123 / 1230 / 1230",
+                   "123 / 123 / 123",
+                   "123 / 123 / 123",
+                   "123/ 123 /123"]
+
+                   for i in kartnumaraları
+                      print "kart" + i[5:]
+                      
+                      Tamer
+                      mert 
+                      harun
+
+                      ["sherwood"
+                      "",
+                      ","]
+
+
+                     a = [""]
+                     a = int(input("Girmek istediğiniz sayıları yazın!"))
+                     sss = a.split(" , ")
+                     print(sss)
